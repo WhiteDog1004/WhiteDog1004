@@ -1,7 +1,8 @@
 ## Frontend
 
 프론트엔드를 꿈꾸고있는 WhiteDog 입니다 </br></br>
-<img src="https://img.shields.io/badge/whitedog.lee1004@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+[![mail](https://img.shields.io/badge/whitedog.lee1004@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](whitedog.lee1004@gmail.com)
+[![blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=blogger&logoColor=white)](https://blog.naver.com/baek_dog)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteDog1004&show_icons=true&theme=radical)
 
