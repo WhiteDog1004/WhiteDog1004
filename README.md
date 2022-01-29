@@ -9,8 +9,8 @@
 ## ReactJS
 https://github.com/WhiteDog1004/dogwitter </br>
 트위터 사이트를 클론코딩해서 구현한 웹입니다.</br>
-'노마드 코더' 유튜버님의 강의를 보면서 Firebase와 ReactJS를 더욱 깊게 배울 수 있었습니다.</br>
-React와 Firebase를 연동해서 어떻게 같이 사용할 수 있는지 배울 수 있었습니다.</br>
+'노마드 코더' 유튜버님의 강의를 보면서 구현한 웹</br>
+React와 Firebase를 연동해서 어떻게 같이 사용할 수 있는지, CURD 배울 수 있었습니다.</br>
 강의를 끝내고 더 공부하고자 구현한 기능</br>
 - 프로필 사진 추가와 변경</br>
 - 자신이 작성했더 글만 볼 수 있는 기능</br>
