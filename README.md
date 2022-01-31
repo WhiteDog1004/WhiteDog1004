@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteDog1004&show_icons=true&theme=radical)
 
-## ReactJS
+## ReactJS Portfolio
 https://github.com/WhiteDog1004/dogwitter </br>
 트위터 사이트를 클론코딩해서 구현한 웹입니다.</br>
 '노마드 코더' 유튜버님의 강의를 보면서 구현한 웹</br>
@@ -23,7 +23,10 @@ https://github.com/WhiteDog1004/ShoesShop </br>
 ReactJS를 처음으로 접하면서 react기능들을 배울 수 있었습니다. ( Router, Hook )
 - Local Storage를 이용한 간단한 회원가입 및 로그인 그리고 최근 본 상품 기능 구현</br>
 - 장바구니 & 상품 목록 더보기 구현</br>
+- AjAX를 이용한 JSON 데이터 가져오기</br>
 
+## 현재 공부 중인 것
+<img src="https://img.shields.io/badge/NextJs-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
 
 ## STACK
 
