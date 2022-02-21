@@ -23,7 +23,11 @@ https://github.com/WhiteDog1004/ShoesShop </br>
 ReactJS를 처음으로 접하면서 react기능들을 배울 수 있었습니다. ( Router, Hook )
 - Local Storage를 이용한 간단한 회원가입 및 로그인 그리고 최근 본 상품 기능 구현</br>
 - 장바구니 & 상품 목록 더보기 구현</br>
-- AjAX를 이용한 JSON 데이터 가져오기</br>
+- AJAX를 이용한 JSON 데이터 가져오기</br>
+
+## NextJS Portfolio
+'brawlhalla' 게임 API를 통해 전적 사이트를 만들 예정입니다. </br>
+현재 상황 : API 요청중 ‥ </br>
 
 ## 현재 공부 중인 것
 <img src="https://img.shields.io/badge/NextJs-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
