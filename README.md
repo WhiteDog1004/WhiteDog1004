@@ -26,8 +26,8 @@ ReactJS를 처음으로 접하면서 react기능들을 배울 수 있었습니�
 - AJAX를 이용한 JSON 데이터 가져오기</br>
 
 ## NextJS Portfolio
-'brawlhalla' 게임 API를 통해 전적 사이트를 만들 예정입니다. </br>
-현재 상황 : API 요청중 ‥ </br>
+'Smash Legends' 게임 API를 통해 통계 사이트를 만들 예정입니다. </br>
+현재 상황 : API 및 기타 작업중‥ </br>
 
 ## 현재 공부 중인 것
 <img src="https://img.shields.io/badge/NextJs-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
