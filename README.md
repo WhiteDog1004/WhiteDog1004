@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteDog1004&show_icons=true&theme=radical)
 
 ## 현재 공부 중인 것
-<img src="https://img.shields.io/badge/NextJs-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Storybook-ff69b4?style=flat-square&logo=Storybook&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-131313?style=flat-square&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/NextJs-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Storybook-ff69b4?style=flat-square&logo=Storybook&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-131313?style=flat-square&logo=Figma&logoColor=white"/><img src="https://img.shields.io/badge/Docker-1572B6?style=flat-square&logo=Docker&logoColor=white"/>
 
 ## STACK
 
